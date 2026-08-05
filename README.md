@@ -2,9 +2,9 @@
 
 <div align="center">
 
-**From Historical Analysis to Systems Engineering**
+**From Railway Engineering to Systems Engineering**
 
-<img src="https://placehold.co/1200x300/0D1117/E6EDF3?text=History+%E2%86%92+Systems+Engineering" alt="History to Systems Engineering banner" />
+<img src="https://placehold.co/1200x300/0D1117/E6EDF3?text=Railway+Engineering+%E2%86%92+Systems+Engineering" alt="Railway Engineering to Systems Engineering banner" />
 
 <sub>Exploring how software works beneath abstractions — from ELF binaries and system calls to memory and kernels.</sub>
 
@@ -14,9 +14,9 @@
 
 ## 👋 About Me
 
-> I studied History before transitioning into software engineering through the **42 curriculum**.  
-> Historical research trained me to examine large amounts of evidence, connect fragmented information, and pursue difficult questions until the underlying structure becomes clear.  
-> I now apply that approach to low-level software: tracing system calls, parsing binary formats, implementing memory allocators, and studying operating-system internals.
+> I majored in **Railway Engineering** before transitioning into software engineering through the **42 curriculum**.  
+> At 42, I learned to break down complex systems by rebuilding them from lower layers: processes, memory, binary formats, networking, and operating-system interfaces.  
+> I now focus on low-level software: tracing system calls, parsing binary formats, implementing memory allocators, and studying operating-system internals.
 
 - Focused on **Linux systems programming, kernel internals, binary formats, and networking**
 - Prefer understanding and rebuilding mechanisms instead of treating them as black boxes
@@ -70,7 +70,7 @@
 
 | Stage | Focus |
 |---|---|
-| **History Major** | Evidence analysis, structural reasoning, and research across large bodies of information |
+| **Railway Engineering Major** | Built an engineering foundation before transitioning into software development |
 | **42 Curriculum** | C/C++, Unix programming, processes, IPC, networking, containers, and collaborative software development |
 | **Low-level Projects** | `ptrace`, ELF parsing, allocators, assembly, system calls, binary tooling, and debugging |
 | **Current Direction** | Kernel development, Linux packet paths, eBPF, cloud dataplane, observability, and systems security |
