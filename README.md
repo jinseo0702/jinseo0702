@@ -56,6 +56,8 @@
 
 | Project | What I implemented |
 |---|---|
+| **[woody_woodpacker](https://github.com/jinseo0702/packer)** | ELF32/ELF64 binary transformer that rewrites `PT_LOAD` segments, injects a runtime decoder, and validates behavioral and structural invariants |
+| **[ft_strace](https://github.com/jinseo0702/make_strace)** | Linux syscall tracer using `ptrace`, x86-64/i386 register decoding, tracee memory reads, and GNU strace-based differential testing |
 | **[ft_nm](https://github.com/jinseo0702/gnu_nm_project)** | ELF32/ELF64 and `ar` archive symbol analyzer modeled after GNU `nm`, including validation, classification, filtering, sorting, and differential testing |
 | **[ft_malloc](https://github.com/jinseo0702/ft_malloc_jinseo)** | Custom dynamic memory allocator for studying heap management, block metadata, allocation, reuse, and release |
 | **[ft_irc](https://github.com/jinseo0702/ft_irc)** | Poll-based IRC server in C++ with protocol parsing, connection state management, channels, and custom data structures |
